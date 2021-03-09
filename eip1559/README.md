@@ -30,11 +30,16 @@
 
   介绍了 EIP-1559 以及类似的 [Escalator](https://agoric.com/papers/incentive-engineering-for-computational-resource-management/full-text/) 算法
 
-- 
+- [**EIP-1559: Fee market change for ETH 1.0 chain**](https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783)
 
+  关于 EIP-1559 的讨论
 
+- 📺[**Tim Roughgarden: An Economic Analysis of EIP-1559; Q&A with Vitalik Buterin**](https://www.youtube.com/watch?v=ndNyx-Oj9Wk)
+- 📺[**Can ETH Become DEFLATIONARY? EIP 1559 Explained**](https://www.youtube.com/watch?v=MGemhK9t44Q&feature=youtu.be) by Finematics
+- 📺[**EIP1559 - Ethereum Magicians Summer Sessions**](https://www.youtube.com/watch?v=kNSpugOwQ1o)
+- 📺[**EIP 1559 Overview**](https://www.youtube.com/watch?v=IEQPSJbZsq0&list=PLXzKMXK2aHh4wSCFiW2naDgq3tK-WjSR0&index=6) by Tim Beiko
 
-- 
+- 📺[**Peep an EIP #16: EIP-1559 with Tim Beiko**](https://www.youtube.com/watch?v=ZbSKo_x9RvU&ab_channel=EthereumCatHerders)
 
 
 
@@ -63,6 +68,9 @@
 - [EIP 1559 FAQ](https://notes.ethereum.org/Wjr1SnW-QaST7phX9C5wkg?view)
 
 - [**EIP 1559: A transaction fee market proposal**](https://github.com/ethereum/rig/blob/9de2ecbba130fba13011eca2b229979b0adcba52/eip1559/eip1559.ipynb) by [@barnabemonnot](https://twitter.com/barnabemonnot) 
+
+
+
 
 - 
 
@@ -98,7 +106,8 @@
 
 - [**EIP-1559 只是徒劳，毫无益处（修订版）**](https://ethfans.org/zengmi/articles/38066) by Ajian 
 
-
+- [**Five arguments against fee burning in EIP-1559**](https://ethereum-magicians.org/t/five-arguments-against-fee-burning-in-eip-1559/5184)
+- 
 
 
 
