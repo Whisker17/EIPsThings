@@ -72,9 +72,9 @@
 
 
 
-- 
+- [**Ethereum fee market reform: EIP-1559 as a question of fairness**](https://pintail.medium.com/ethereum-fee-market-reform-eip-1559-as-a-question-of-fairness-567c52dac017) by Pintail （[**中文译本**](https://ethfans.org/posts/ethereum-fee-market-reform-eip-1559-as-a-question-of-fairness)）
 
-
+  讨论了 fee 的改革导致的公平性问题，以及矿工在区块链中应该担当什么样的角色。
 
 
 
